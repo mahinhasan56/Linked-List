@@ -1,0 +1,141 @@
+
+/////  Test 01  /////
+10
+20
+30
+40
+Print count
+4
+
+/////  Test 03  /////
+20
+
+/////  Test 04  /////
+Print get
+30
+
+/////  Test 05  /////
+Print set
+20
+10
+85
+30
+40
+Print set
+null
+10
+85
+30
+40
+
+/////  Test 06  /////
+3
+
+/////  Test 07  /////
+true
+
+/////  Test 08  /////
+10
+20
+30
+40
+50
+60
+70
+Copying List
+10
+20
+30
+40
+50
+60
+70
+
+/////  Test 09  /////
+10
+20
+30
+40
+50
+Reversing List
+50
+40
+30
+20
+10
+
+/////  Test 10  /////
+10
+20
+30
+40
+Printing Insert
+85
+10
+20
+30
+40
+Printing Insert
+85
+10
+20
+95
+30
+40
+Printing Insert
+85
+10
+20
+95
+30
+40
+75
+
+/////  Test 11  /////
+10
+20
+30
+40
+50
+60
+70
+Removed element: com.FaysalBinHasan.Node@70dea4e
+20
+30
+40
+50
+60
+70
+Removed element: com.FaysalBinHasan.Node@5c647e05
+20
+30
+40
+60
+70
+Removed element: com.FaysalBinHasan.Node@33909752
+20
+30
+40
+60
+
+/////  Test 11  /////
+10
+20
+30
+40
+Rotate left
+20
+30
+40
+10
+
+/////  Test 12  /////
+10
+20
+30
+40
+Rotate right
+40
+10
+20
+30
